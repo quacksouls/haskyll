@@ -1,5 +1,9 @@
 # Haskell bit by bit
 
+**New development at [github.com/mvngu/haskyll][mvngu]**
+
+I no longer maintain this repository.
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Haskell might seem like a complicated beast at first. It does not have to be
@@ -28,3 +32,4 @@ license.
 [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 [coo]: https://github.com/quacksouls/jekyll-theme-coo
 [mit]: https://opensource.org/license/MIT/
+[mvngu]: https://github.com/mvngu/haskyll
